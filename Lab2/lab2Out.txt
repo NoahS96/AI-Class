@@ -1,0 +1,242 @@
+Adding Node: The Wall
+Adding Node: Winterfell
+Adding Node: White Harbor
+Adding Node: Gulltown
+Adding Node: Braavos
+Adding Node: Lorath
+Adding Node: Lannisport
+Adding Node: Kings Landing
+Adding Node: Oldtown
+Adding Node: Pentos
+Adding Node: Norvos
+Adding Node: Qohor
+Adding Node: Lotus Port
+Adding Node: Lys
+Adding Node: Tyrosh
+Adding Node: Myr
+Adding Node: Volantis
+Adding Node: Mantarys
+Adding Node: Elyria
+Adding Node: Saath
+Adding Node: Morosh
+Adding Node: New Ghis
+Adding Node: Astapor
+Adding Node: Yunkai
+Adding Node: Meereen
+Adding Node: Hesh
+Adding Node: Lhazosh
+Adding Node: Kosrak
+Adding Node: Port Yhos
+Adding Node: Vahar
+Adding Node: Faros
+Adding Node: Qarkash
+Adding Node: Qarth
+Adding Node: Asabhad
+Adding Node: Yin
+Adding Node: Port Moraq
+Adding Node: Zabhad
+Adding Node: Asshai
+Adding Node: Turrani
+Adding Node: Leng Ma
+Adding Node: Leng Yi
+Adding Node: Jinqi
+Adding Node: Carcosa
+Adding Node: City of the Winged Men
+Adding Node: KDath
+Adding Node: Nefer
+Adding Node: Trader Town
+Adding Node: Tiqui
+Adding Node: Bayasabhad
+Adding Node: Samyriana
+Adding Node: Kayakayanaya
+Adding Node: Vaes Dothrak
+Adding Node: Ib Sar
+Adding Node: New Ibbish
+Adding Node: Port of Ibben
+Adding Node: Ib Nor
+Adding Edge with Weight 259: The Wall <-> Winterfell
+Adding Edge with Weight 247: Winterfell <-> White Harbor
+Adding Edge with Weight 265: The Wall <-> White Harbor
+Adding Edge with Weight 280: White Harbor <-> Gulltown
+Adding Edge with Weight 110: Gulltown <-> Kings Landing
+Adding Edge with Weight 230: Kings Landing <-> Lannisport
+Adding Edge with Weight 213: Kings Landing <-> Oldtown
+Adding Edge with Weight 250: Lannisport <-> Oldtown
+Adding Edge with Weight 211: Oldtown <-> Tyrosh
+Adding Edge with Weight 186: Oldtown <-> Lotus Port
+Adding Edge with Weight 147: Tyrosh <-> Lotus Port
+Adding Edge with Weight 135: Tyrosh <-> Lys
+Adding Edge with Weight 145: Lys <-> Lotus Port
+Adding Edge with Weight  97: Tyrosh <-> Myr
+Adding Edge with Weight 136: Lotus Port <-> Volantis
+Adding Edge with Weight 119: Lotus Port <-> New Ghis
+Adding Edge with Weight  87: Gulltown <-> Pentos
+Adding Edge with Weight  74: Myr <-> Pentos
+Adding Edge with Weight 180: Myr <-> Volantis
+Adding Edge with Weight  98: Myr <-> Qohor
+Adding Edge with Weight  78: Pentos <-> Braavos
+Adding Edge with Weight  67: Pentos <-> Lorath
+Adding Edge with Weight  79: Pentos <-> Norvos
+Adding Edge with Weight  58: Braavos <-> Lorath
+Adding Edge with Weight  81: Lorath <-> Norvos
+Adding Edge with Weight  68: Norvos <-> Qohor
+Adding Edge with Weight  98: Qohor <-> Saath
+Adding Edge with Weight  58: Saath <-> Morosh
+Adding Edge with Weight 120: Morosh <-> Vaes Dothrak
+Adding Edge with Weight 137: Morosh <-> Meereen
+Adding Edge with Weight  98: Volantis <-> Mantarys
+Adding Edge with Weight  75: Mantarys <-> Elyria
+Adding Edge with Weight 110: Mantarys <-> Meereen
+Adding Edge with Weight  69: Elyria <-> Yunkai
+Adding Edge with Weight  78: Meereen <-> Hesh
+Adding Edge with Weight  80: Meereen <-> Yunkai
+Adding Edge with Weight  80: Hesh <-> Lhazosh
+Adding Edge with Weight  82: Yunkai <-> Astapor
+Adding Edge with Weight  97: Astapor <-> Port Yhos
+Adding Edge with Weight  85: Lhazosh <-> Kosrak
+Adding Edge with Weight  84: Port Yhos <-> Vahar
+Adding Edge with Weight  96: New Ghis <-> Vahar
+Adding Edge with Weight  69: Vahar <-> Faros
+Adding Edge with Weight  72: Vahar <-> Qarkash
+Adding Edge with Weight  75: Faros <-> Qarth
+Adding Edge with Weight  80: Qarkash <-> Qarth
+Adding Edge with Weight  86: Qarth <-> Asabhad
+Adding Edge with Weight  75: Asabhad <-> Yin
+Adding Edge with Weight  90: Asabhad <-> Bayasabhad
+Adding Edge with Weight  83: Asabhad <-> Tiqui
+Adding Edge with Weight 110: Bayasabhad <-> Samyriana
+Adding Edge with Weight  75: Tiqui <-> Trader Town
+Adding Edge with Weight 118: Trader Town <-> Samyriana
+Adding Edge with Weight 117: Trader Town <-> Kayakayanaya
+Adding Edge with Weight 120: Kosrak <-> Samyriana
+Adding Edge with Weight 123: Kosrak <-> Vaes Dothrak
+Adding Edge with Weight 104: Vaes Dothrak <-> Kayakayanaya
+Adding Edge with Weight  82: Vaes Dothrak <-> New Ibbish
+Adding Edge with Weight  79: New Ibbish <-> Port of Ibben
+Adding Edge with Weight  76: New Ibbish <-> Ib Sar
+Adding Edge with Weight  61: Port of Ibben <-> Ib Nor
+Adding Edge with Weight  95: Kayakayanaya <-> Nefer
+Adding Edge with Weight  87: Nefer <-> KDath
+Adding Edge with Weight  81: KDath <-> Jinqi
+Adding Edge with Weight  68: Jinqi <-> Leng Yi
+Adding Edge with Weight  63: Leng Yi <-> Leng Ma
+Adding Edge with Weight  73: Jinqi <-> Carcosa
+Adding Edge with Weight  40: Carcosa <-> City of the Winged Men
+Adding Edge with Weight  59: Leng Ma <-> Turrani
+Adding Edge with Weight  47: Turrani <-> Asshai
+Adding Edge with Weight  63: Yin <-> Port Moraq
+Adding Edge with Weight  58: Port Moraq <-> Zabhad
+##########################################
+############## White Walkers #############
+##########################################
+Visiting Winterfell                  	distance 259
+Visiting White Harbor                	distance 247
+Visiting Gulltown                    	distance 280
+Visiting Pentos                      	distance 87
+Visiting Lorath                      	distance 67
+Visiting Braavos                     	distance 58
+Returning from Braavos             	distance 58
+Visiting Norvos                      	distance 81
+Visiting Qohor                       	distance 68
+Visiting Myr                         	distance 98
+Visiting Tyrosh                      	distance 97
+Visiting Lys                         	distance 135
+Visiting Lotus Port                  	distance 145
+Visiting New Ghis                    	distance 119
+Visiting Vahar                       	distance 96
+Visiting Faros                       	distance 69
+Visiting Qarth                       	distance 75
+Visiting Qarkash                     	distance 80
+Returning from Qarkash             	distance 80
+Visiting Asabhad                     	distance 86
+Visiting Yin                         	distance 75
+Visiting Port Moraq                  	distance 63
+Visiting Zabhad                      	distance 58
+Returning from Zabhad              	distance 58
+Returning from Port Moraq          	distance 63
+Returning from Yin                 	distance 75
+Visiting Tiqui                       	distance 83
+Visiting Trader Town                 	distance 75
+Visiting Kayakayanaya                	distance 117
+Visiting Nefer                       	distance 95
+Visiting KDath                       	distance 87
+Visiting Jinqi                       	distance 81
+Visiting Leng Yi                     	distance 68
+Visiting Leng Ma                     	distance 63
+Visiting Turrani                     	distance 59
+Visiting Asshai                      	distance 47
+Returning from Asshai              	distance 47
+Returning from Turrani             	distance 59
+Returning from Leng Ma             	distance 63
+Returning from Leng Yi             	distance 68
+Visiting Carcosa                     	distance 73
+Visiting City of the Winged Men      	distance 40
+Returning from City of the Winged Men	distance 40
+Returning from Carcosa             	distance 73
+Returning from Jinqi               	distance 81
+Returning from KDath               	distance 87
+Returning from Nefer               	distance 95
+Visiting Vaes Dothrak                	distance 104
+Visiting New Ibbish                  	distance 82
+Visiting Ib Sar                      	distance 76
+Returning from Ib Sar              	distance 76
+Visiting Port of Ibben               	distance 79
+Visiting Ib Nor                      	distance 61
+Returning from Ib Nor              	distance 61
+Returning from Port of Ibben       	distance 79
+Returning from New Ibbish          	distance 82
+Visiting Morosh                      	distance 120
+Visiting Saath                       	distance 58
+Returning from Saath               	distance 58
+Visiting Meereen                     	distance 137
+Visiting Hesh                        	distance 78
+Visiting Lhazosh                     	distance 80
+Visiting Kosrak                      	distance 85
+Visiting Samyriana                   	distance 120
+Visiting Bayasabhad                  	distance 110
+Returning from Bayasabhad          	distance 110
+Returning from Samyriana           	distance 120
+Returning from Kosrak              	distance 85
+Returning from Lhazosh             	distance 80
+Returning from Hesh                	distance 78
+Visiting Yunkai                      	distance 80
+Visiting Elyria                      	distance 69
+Visiting Mantarys                    	distance 75
+Visiting Volantis                    	distance 98
+Returning from Volantis            	distance 98
+Returning from Mantarys            	distance 75
+Returning from Elyria              	distance 69
+Visiting Astapor                     	distance 82
+Visiting Port Yhos                   	distance 97
+Returning from Port Yhos           	distance 97
+Returning from Astapor             	distance 82
+Returning from Yunkai              	distance 80
+Returning from Meereen             	distance 137
+Returning from Morosh              	distance 120
+Returning from Vaes Dothrak        	distance 104
+Returning from Kayakayanaya        	distance 117
+Returning from Trader Town         	distance 75
+Returning from Tiqui               	distance 83
+Returning from Asabhad             	distance 86
+Returning from Qarth               	distance 75
+Returning from Faros               	distance 69
+Returning from Vahar               	distance 96
+Returning from New Ghis            	distance 119
+Visiting Oldtown                     	distance 186
+Visiting Kings Landing               	distance 213
+Visiting Lannisport                  	distance 230
+White Walker Total Distance = 8909
+##########################################
+################ Jon Snow ################
+##########################################
+Visiting Kayakayanaya                	distance 117
+Visiting Vaes Dothrak                	distance 104
+Visiting Morosh                      	distance 120
+Visiting Saath                       	distance 58
+Visiting Qohor                       	distance 98
+Visiting Norvos                      	distance 68
+Visiting Pentos                      	distance 79
+Visiting Gulltown                    	distance 87
+Visiting White Harbor                	distance 280
+Visiting The Wall                    	distance 265
+Jon Snow Total Distance = 1276
